@@ -16,6 +16,6 @@
 
 **Thoughts** The struggle was good - I need to continue to invest in that struggle.
 
-**Link(s) to work**
+**Link(s) to work:**
 [Project Euler](https://projecteuler.net/problem==11)
 [Repo](https://github.com/JoshEdgell/Project_Euler)
