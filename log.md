@@ -1,21 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 7, 2017
+### Day 0: January 16, 2017
 
-**Today's Progress**: Completed a few Project Euler problems
+**Today's Progress**: Completed RoR tutorial about hiding API keys
 
-**Thoughts:** It felt pretty good getting back into coding
+**Thoughts:** Tomorrow, I'd like to try to use this to hide Google and Dark Sky Keys to start receiving data from them.
 
 **Link to work:** 
-[Project Euler](https://projecteuler.net/problem=11)
-[Repo](https://github.com/JoshEdgell/Project_Euler)
+[Nasa Apod API](https://github.com/JoshEdgell/NasaApodApi)
 
-### Day 1: January 8, 2017
+### Day 1: January 17, 2017
 
-**Today's Progress**: I worked on problem 11 on Project Euler - I'm really getting hung up on where an "undefined" is showing up while trying to read values in a matrix.
+**Today's Progress**: 
 
-**Thoughts** The struggle was good - I need to continue to invest in that struggle.
+**Thoughts** 
 
 **Link(s) to work:**
-[Project Euler](https://projecteuler.net/problem==11)
-[Repo](https://github.com/JoshEdgell/Project_Euler)
