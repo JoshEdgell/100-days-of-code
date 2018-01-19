@@ -17,3 +17,21 @@
 
 **Link(s) to work:**
 [JWT Authorization Practice](https://github.com/JoshEdgell/Playground/tree/master/jwt_auth)
+
+### Day 2: January 18, 2017
+
+**Today's Progress**: Started trying to write routes to send data to Google for API response.  Struggled bigly.  I need to restart using Thom's directions tomorrow
+
+**Thoughts** I forget most of the ruby I learned, and what I remember is mostly garbled nonsense.
+
+**Link(s) to work:**
+[Travel Better Repository](https://github.com/JoshEdgell/travelbetter)
+
+### Day 3: January 19, 2017
+
+**Today's Progress**: I did it!  I was able to send data from Postman into the backend to send to Google - now it's onto writing the front end
+
+**Thoughts** Lisa looked at my like I was crazy when I jumped up and pumped my fists.
+
+**Link(s) to work:**
+[Travel Better Repository](https://github.com/JoshEdgell/travelbetter)
