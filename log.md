@@ -35,3 +35,12 @@
 
 **Link(s) to work:**
 [Travel Better Repository](https://github.com/JoshEdgell/travelbetter)
+
+### Day 4: January 20, 2017
+
+**Today's Progress**: I continued to add to the currentTrip object inside the controller.  I wrote a giant method to find the trip duration only to find that the trip duration was already included in Google's response.
+
+**Thoughts** A little bit of JavaScript practice is always fun, but I didn't really need it right now and just wanted to continue to push the functionality of the app.
+
+**Link(s) to work:**
+[Travel Better Repository](https://github.com/JoshEdgell/travelbetter)
