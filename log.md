@@ -44,3 +44,12 @@
 
 **Link(s) to work:**
 [Travel Better Repository](https://github.com/JoshEdgell/travelbetter)
+
+### Day 5: January 21, 2017
+
+**Today's Progress**: Wrote routes to receive data from Dark Sky Weather and worked on putting responses into the currentTrip object.  Also wrote method to partition trip.
+
+**Thoughts** The trip partitioning method assumes the trip is in a relatively straight line.  Continue to think about how to find geocoordinates along the actual route (maybe use trip duration information along returned route to be more accurate?)
+
+**Link(s) to work:**
+[Travel Better Repository](https://github.com/JoshEdgell/travelbetter)
