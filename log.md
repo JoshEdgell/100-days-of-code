@@ -53,3 +53,12 @@
 
 **Link(s) to work:**
 [Travel Better Repository](https://github.com/JoshEdgell/travelbetter)
+
+### Day 6: January 22, 2017
+
+**Today's Progress**: Started with a problem from Project Euler and then got onto the weather app.  The massive currentTrip object is becoming all-consuming.
+
+**Thoughts:** I'm getting to the point where I need to start considering when a user is leaving (both for the Dark Sky requests and to display the data the user will be shown once all the dust settles from the 15-billion functions that are going to run when the user clicks "get directions."
+
+**Link(s) to work:**
+[Travel Better Repository](https://github.com/JoshEdgell/travelbetter)
