@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 16, 2017
+### Day 0: January 16, 2018
 
 **Today's Progress**: Completed RoR tutorial about hiding API keys
 
@@ -9,7 +9,7 @@
 **Link to work:** 
 [Nasa Apod API](https://github.com/JoshEdgell/NasaApodApi)
 
-### Day 1: January 17, 2017
+### Day 1: January 17, 2018
 
 **Today's Progress**: Reviewed JWT authorization tutorial in order to use those skills meshed with RoR skills to make backend calls with Ruby.
 
@@ -18,7 +18,7 @@
 **Link(s) to work:**
 [JWT Authorization Practice](https://github.com/JoshEdgell/Playground/tree/master/jwt_auth)
 
-### Day 2: January 18, 2017
+### Day 2: January 18, 2018
 
 **Today's Progress**: Started trying to write routes to send data to Google for API response.  Struggled bigly.  I need to restart using Thom's directions tomorrow
 
@@ -27,7 +27,7 @@
 **Link(s) to work:**
 [Travel Better Repository](https://github.com/JoshEdgell/travelbetter)
 
-### Day 3: January 19, 2017
+### Day 3: January 19, 2018
 
 **Today's Progress**: I did it!  I was able to send data from Postman into the backend to send to Google - now it's onto writing the front end
 
@@ -36,7 +36,7 @@
 **Link(s) to work:**
 [Travel Better Repository](https://github.com/JoshEdgell/travelbetter)
 
-### Day 4: January 20, 2017
+### Day 4: January 20, 2018
 
 **Today's Progress**: I continued to add to the currentTrip object inside the controller.  I wrote a giant method to find the trip duration only to find that the trip duration was already included in Google's response.
 
@@ -45,7 +45,7 @@
 **Link(s) to work:**
 [Travel Better Repository](https://github.com/JoshEdgell/travelbetter)
 
-### Day 5: January 21, 2017
+### Day 5: January 21, 2018
 
 **Today's Progress**: Wrote routes to receive data from Dark Sky Weather and worked on putting responses into the currentTrip object.  Also wrote method to partition trip.
 
@@ -54,7 +54,7 @@
 **Link(s) to work:**
 [Travel Better Repository](https://github.com/JoshEdgell/travelbetter)
 
-### Day 6: January 22, 2017
+### Day 6: January 22, 2018
 
 **Today's Progress**: Started with a problem from Project Euler and then got onto the weather app.  The massive currentTrip object is becoming all-consuming.
 
@@ -62,3 +62,12 @@
 
 **Link(s) to work:**
 [Travel Better Repository](https://github.com/JoshEdgell/travelbetter)
+
+### Day 7: January 31, 2018
+
+**Today's Progress**: I worked on some basic wireframing and layout of a fake site for Pritchett's Closets & Blinds (from Modern Family).    I'll try to add some little things here and there for some flair and practice (accordion box, etc).
+
+**Thoughts:** I needed something to get my mind off of the weather app.  I've been feeling paralyzed by it for several days now.  So, I got to work on a fun idea to put a little more stuff in my portfolio.  We'll see how it goes.
+
+**Link(s) to work:**
+[Pritchett's Closets Repository](https://github.com/JoshEdgell/mockups/tree/master/pritchetts_closets)
