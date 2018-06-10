@@ -36,3 +36,12 @@
 
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
+
+### Day 4: June 10, 2018
+
+**Today's Progress**: It *Looks* like a game...
+
+**Thoughts:** Worked on the animation and the logic of the game so that the player can throw rock, paper, or scissors repeatedly.  Now, I've just gotta have the game update the computer image and it'll at least look like a game of rock, paper, scissors (who knows if the logic will work, though?).
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
