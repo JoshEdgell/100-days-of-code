@@ -19,7 +19,7 @@
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
 
-### Day 1: June 8, 2018
+### Day 2: June 8, 2018
 
 **Today's Progress**: Animated Player/Computer Shooting Motions
 
@@ -28,7 +28,7 @@
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
 
-### Day 2: June 9, 2018
+### Day 3: June 9, 2018
 
 **Today's Progress**: Goodbye, Angular.  Hello, jQuery
 
