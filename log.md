@@ -27,3 +27,12 @@
 
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
+
+### Day 2: June 9, 2018
+
+**Today's Progress**: Goodbye, Angular.  Hello, jQuery
+
+**Thoughts:** Realized there's no reason to use AngularJS on this project, so switching to jQuery.  I need to be very careful about how I continue to work on this, because I could very easily build things in the wrong order and make testing next to impossible.
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
