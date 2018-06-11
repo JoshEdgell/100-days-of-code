@@ -46,7 +46,7 @@
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
 
-### Day 4: June 10, 2018
+### Day 5: June 11, 2018
 
 **Today's Progress**: It *Acts* like a game...
 
