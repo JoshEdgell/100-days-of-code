@@ -45,3 +45,12 @@
 
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
+
+### Day 4: June 10, 2018
+
+**Today's Progress**: It *Acts* like a game...
+
+**Thoughts:** Finished translating all the AngularJS into jQuery. The game logic is up and looks like it's working.  I need to finish adding tables to completely verify that this is working as it should.  Also, being able to see their results and tendencies could be a useful option for users.
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
