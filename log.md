@@ -54,3 +54,12 @@
 
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
+
+### Day 6: June 12, 2018
+
+**Today's Progress**: It *Plays* like a game...
+
+**Thoughts:** Corrected the logic to keep the computer from playing 'rock' to start off with every time.  Styled the shit out of it, and gave it a minimum width to keep from looking all wonky.  Tomorrow, I'm going to add a modal to say "you won/lost/tied" and then start building in the data tables.
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
