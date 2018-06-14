@@ -63,3 +63,12 @@
 
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
+
+### Day 7: June 13, 2018
+
+**Today's Progress**: Palindrome Number Challenge
+
+**Thoughts:** Completed a code challenge given at Triangle Adult Junior Developers Meetup - "Given a user input of an integer, find the largest palindrome that can be created by multiplying two integers smaller than the input."
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/code_challenges)
