@@ -72,3 +72,12 @@
 
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/code_challenges)
+
+### Day 8: June 14, 2018
+
+**Today's Progress**: Put a Bow on It (and add a description of what it's doing)
+
+**Thoughts:** The Rock, Paper, Scissors game is up and running as a playable (and enjoyable) game.  I would like to come back to it in the near future to give a little explanation of what it's doing and how it works so the user can understand what I've done and why it's important.
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
