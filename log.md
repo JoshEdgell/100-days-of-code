@@ -81,3 +81,12 @@
 
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/rock_paper_scissors)
+
+### Day 9: June 15, 2018
+
+**Today's Progress**: Explained and Styled a Recent Code Challenge
+
+**Thoughts:** I wrote an explanation of my solution process for the code challenge I did the other day.  I tried to do the styling in a manner that would lend itself to reuse on other code challenges.
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/code_challenges)
