@@ -90,3 +90,12 @@
 
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/code_challenges)
+
+### Day 10: June 17, 2018
+
+**Today's Progress**: "Lord Be With You" App (working title)
+
+**Thoughts:** Started working on an app for creating church bulletins - the final intent being that a user will be able to follow along with praise music, announcements, the sermon, etc using an app on their phone.
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/lord_be_with_you)
