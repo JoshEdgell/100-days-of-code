@@ -99,3 +99,21 @@
 
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/lord_be_with_you)
+
+### Day 11: June 18, 2018
+
+**Today's Progress**: "Lord Be With You" App
+
+**Thoughts:** Got all the controllers and models seemingly up and working - I need to switch this over to an angular app to start to test it the way it'll make sense.
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/lord_be_with_you)
+
+### Day 12: June 18, 2018
+
+**Today's Progress**: "Lord Be With You" App
+
+**Thoughts:** Started building the angular app - this is going to be a bigger project than I thought.  It shouldn't be tough to complete, but if I want to make the UX as good as it really should be, there are a lot of things that need to get done before I can put a bow on it.
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/lord_be_with_you)
