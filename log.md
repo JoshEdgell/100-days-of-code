@@ -117,3 +117,12 @@
 
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/lord_be_with_you)
+
+### Day 13: June 22, 2018
+
+**Today's Progress**: "Lord Be With You" App Can Add Verses to a Song and Delete Songs
+
+**Thoughts:** I updated the app controller so a user can add verses to a song, then wrote methods to get and list all songs.  Then, I wrote a method to delete songs from the database.
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/lord_be_with_you)
