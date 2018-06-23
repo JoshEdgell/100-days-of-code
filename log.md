@@ -126,3 +126,12 @@
 
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/lord_be_with_you)
+
+### Day 14: June 22, 2018
+
+**Today's Progress**: And then I learned how to change response messages...
+
+**Thoughts:** The app can now create sermons by adding paragraphs to a created sermon.  The next thing I'll do with the app is start working on building bulletins using songs and sermons. 
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/lord_be_with_you)
