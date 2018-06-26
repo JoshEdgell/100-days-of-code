@@ -131,7 +131,16 @@
 
 **Today's Progress**: And then I learned how to change response messages...
 
-**Thoughts:** The app can now create sermons by adding paragraphs to a created sermon.  The next thing I'll do with the app is start working on building bulletins using songs and sermons. 
+**Thoughts:** The app can now create sermons by adding paragraphs to a created sermon.  The next thing I'll do with the app is start working on building bulletins using songs and sermons.
 
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/lord_be_with_you)
+
+### Day 15: June 25, 2018
+
+**Today's Progress**: Trying to format some code challenges
+
+**Thoughts:** I changed tactics a bit today and worked on some code challenges.  Then, switched over to making a template html/css/js to make it easier to publish my solutions once I've completed the challenges.
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/code_challenges)
