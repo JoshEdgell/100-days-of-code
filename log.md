@@ -144,3 +144,12 @@
 
 **Link to work:**
 [Rock Paper Scissors Repository](https://github.com/JoshEdgell/code_challenges)
+
+### Day 16: June 29, 2018
+
+**Today's Progress**: Did a bunch of CodeWars
+
+**Thoughts:** I'm actually counting last night as part of this, but I've done about a half-dozen more challenges on CodeWars to practice for a technical interview.  I'm going to quit letting how many days it's been since I've committed to this repo effect me and concentrate on just getting coding time in (and trying to commit to this repo after an hour each time).  
+
+**Link to work:**
+[Rock Paper Scissors Repository](https://github.com/JoshEdgell/code_challenges)
